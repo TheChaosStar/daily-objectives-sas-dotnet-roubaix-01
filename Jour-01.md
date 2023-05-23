@@ -9,7 +9,7 @@
 
 #### Terminal
 
-- [x] Pimper son terminal (Zsh, Ohmyzsh, Powerlevel10k)
+- [𐄂] Pimper son terminal (Zsh, Ohmyzsh, Powerlevel10k)
 - [ ] Créer un cheat sheet sur les principales commandes du terminal
 - [ ] Setup ses alias
 
